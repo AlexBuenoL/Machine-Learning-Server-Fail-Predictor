@@ -1,8 +1,5 @@
 # Server Failure Prediction
-This repository contains Python code for loading, analyzing, and visualizing a dataset with multiple server attributes (CPU, I/O, network, memory, disk, etc.) to predict potential server failures. It also includes dimensionality reduction techniques and comparisons of different classification models.
-
-## Overview
-Predicting server failures is critical for maintaining infrastructure reliability and preventing downtime. 
+Predicting server failures is critical for maintaining infrastructure reliability and preventing downtime. This repository contains Python code for loading, analyzing, and visualizing a dataset with multiple server attributes (CPU, I/O, network, memory, disk, etc.) to predict potential server failures. It also includes dimensionality reduction techniques and comparisons of different classification models.
 
 ## **Data loading and preprocessing: Handling complex datasets with high-dimensional server metrics.**
 - Visualization: Exploring the distribution and correlation of server attributes.
